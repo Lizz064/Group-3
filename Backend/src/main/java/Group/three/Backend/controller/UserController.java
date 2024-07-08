@@ -11,7 +11,7 @@ import java.util.List;
 @RestController
 @AllArgsConstructor
 @RequestMapping("api/users")
-
+//links our database with the user entity
 public class UserController {
     private UserService userService;
 

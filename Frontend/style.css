@@ -1,0 +1,30 @@
+*{
+    text-align: center;
+    background-color: rgb(119, 183, 203);
+
+    
+
+}
+h1{
+    font-weight: bold;
+    font-size: 50px;
+}
+div{
+    font-size: 30px;
+    
+}
+input{
+    width:  200px;
+    height: 30px;
+    padding: 5px;
+    
+
+}
+button{
+    font-size: 18px;
+    margin-top: 25px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: white;
+}
